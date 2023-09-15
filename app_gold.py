@@ -1,4 +1,4 @@
-!pip install scikit-learn
+
 import sklearn
 import pickle
 import streamlit as st
