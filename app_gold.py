@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 import pandas as pd
-import sklearn
+
 # Load the Model
 model = pickle.load(open('Gold.sav', 'rb'))
 
