@@ -1,5 +1,5 @@
 import pickle
-from sklearn.ensemble import RandomForestRegressor
+import sklearn
 import streamlit as st
 import pandas as pd
 # Load the Model
